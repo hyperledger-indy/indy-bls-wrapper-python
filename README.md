@@ -7,8 +7,8 @@ This package implements a version of the BLS signature scheme. The implementatio
 This package is NOT recommended for new projects. It would be preferable to use a BLS signatures implementation based on the IETF draft, on a curve with a stronger security estimation (such as BLS12-381).
 
 [BLS signatures specification at the IETF]: https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-bls-signature-05
-[Hyperledger Indy BLS Signatures Rust]: https://github.com/hyperledger/indy-blssignatures-rs
-[Hyperledger Indy Node]: https://github.com/hyperledger/indy-node
+[Hyperledger Indy BLS Signatures Rust]: https://github.com/hyperledger-indy/indy-blssignatures-rs
+[Hyperledger Indy Node]: https://github.com/hyperledger-indy/indy-node
 
 ## Installation
 
@@ -26,7 +26,7 @@ The primary build dependency is the Rust crate: [Hyperledger Indy BLS Signatures
 
 ## Contributing
 
-Pull requests are welcome! Please read our [contributions guide](https://github.com/hyperledger/indy-bls-wrapper-python/blob/main/CONTRIBUTING.md) and submit your PRs. We enforce [developer certificate of origin](https://developercertificate.org/) (DCO) commit signing. See guidance [here](https://github.com/apps/dco).
+Pull requests are welcome! Please read our [contributions guide](https://github.com/hyperledger-indy/indy-bls-wrapper-python/blob/main/CONTRIBUTING.md) and submit your PRs. We enforce [developer certificate of origin](https://developercertificate.org/) (DCO) commit signing. See guidance [here](https://github.com/apps/dco).
 
 We also welcome issues submitted about problems you encounter in using `indy_bls`.
 
@@ -36,4 +36,4 @@ This code is based on the original Ursa Python wrapper contributed by Cam Parra.
 
 ## License
 
-Licensed under the Apache License, Version 2.0. ([LICENSE-APACHE](https://github.com/hyperledger/indy-bls-wrapper-python/blob/main/LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0).
+Licensed under the Apache License, Version 2.0. ([LICENSE-APACHE](https://github.com/hyperledger-indy/indy-bls-wrapper-python/blob/main/LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0).

@@ -9,7 +9,7 @@ setup(
     version="0.1.0",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/hyperledger/indy-bls-wrapper-python",
+    url="https://github.com/hyperledger-indy/indy-bls-wrapper-python",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: Apache Software License",

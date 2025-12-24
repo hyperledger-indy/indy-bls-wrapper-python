@@ -82,7 +82,7 @@ jobs:
       - name: Checkout library
         uses: actions/checkout@v4
         with:
-          repository: "hyperledger/indy-blssignatures-rs"
+          repository: "hyperledger-indy/indy-blssignatures-rs"
           path: "build"
 
       - name: Build

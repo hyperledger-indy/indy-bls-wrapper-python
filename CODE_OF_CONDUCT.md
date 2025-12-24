@@ -1,4 +1,4 @@
-# [Hyperledger Code of Conduct](https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct)
+# [LF Decentralized Trust Code of Conduct](https://lf-decentralized-trust.github.io/governance/governing-documents/code-of-conduct/)
 
 The Hyperledger Foundation is a collaborative project at The Linux Foundation.
 It is an open-source and open community project where participants choose to

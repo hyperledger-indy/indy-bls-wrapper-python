@@ -10,13 +10,13 @@ the discoverer.
 
 To report a security bug email a description of the flaw and any related
 information (e.g. reproduction steps, version)
-to [security@lists.hyperledger.org](mailto:security@lists.hyperledger.org).
+to [security@lists.lfdecentralizedtrust.org](mailto:security@lists.lfdecentralizedtrust.org).
 
 Security Bug Handling Process
 
 1. The person discovering the issue, the reporter, reports the vulnerability
    privately to
-   [security@lists.hyperledger.org](mailto:security@lists.hyperledger.org).
+   [security@lists.lfdecentralizedtrust.org](mailto:security@lists.lfdecentralizedtrust.org).
 2. Messages that do not relate to the reporting or managing of an undisclosed
    security vulnerability in Hyperledger software are ignored and no further
    action is required.
@@ -41,13 +41,13 @@ to include in the report is a matter of judgment. Generally, reports should
 contain enough information to enable people to assess the risk associated with
 the vulnerability for their system and no more. Steps to reproduce the
 vulnerability are not normally included.
-11. The project team commits the fix. No reference should be made to the commit
+1.  The project team commits the fix. No reference should be made to the commit
     being related to a security vulnerability.
-12. The project team creates a release that includes the fix.
-13. The project team announces the release. The release announcement should be
+2.  The project team creates a release that includes the fix.
+3.  The project team announces the release. The release announcement should be
     sent to the usual mailing lists (typically the project's user list, dev
     list, announce list, and the Hyperledger announce list).
-14. The project team announces the vulnerability. The vulnerability announcement
+4.  The project team announces the vulnerability. The vulnerability announcement
     should be sent after the release announcement to the following destinations:
   1. The same destinations as the release announcement.
   2. The vulnerability reporter.
@@ -70,5 +70,5 @@ public.
 Information may be shared with domain experts (e.g. colleagues at your employer)
 at the discretion of the project's security team providing that it is made clear
 that the information is not for public disclosure and
-that [security@lists.hyperledger.org](mailto:security@lists.hyperledger.org)
+that [security@lists.lfdecentralizedtrust.org](mailto:security@lists.lfdecentralizedtrust.org)
 org must be copied on any communication regarding the vulnerability.
